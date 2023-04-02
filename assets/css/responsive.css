@@ -1,0 +1,379 @@
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+    .Carbon_slider {
+        max-width: 900px;
+    }
+    .accordion-body p {
+        font-size: 20px;
+    }
+    .accordion-button {
+        font-size: 24px;
+    }
+    
+    .sec_title h1 {
+        font-size: 40px;
+    }
+    
+    .contact_text p {
+        font-size: 20px;
+    }
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .Hero_cont h1 {
+        font-size: 60px;
+    }
+    
+    .Flying_text h1 {
+        font-size: 60px;
+    }
+    
+    .Flying-Area {
+        background-position: inherit;
+    }
+    
+    .Carbon_slider {
+        max-width: 650px;
+    }
+    .eco-area {
+        background-position: center;
+    }
+    .accordion-button {
+        font-size: 24px;
+    }
+    .sec_title h1 {
+        font-size: 34px;
+    }
+    
+    .contact_text p {
+        font-size: 18px;
+    }
+    
+    .mail_box {
+        font-size: 20px;
+        padding: 10px 0;
+        padding-top: 0;
+    }
+    
+    .contact-Area {
+        padding: 100px 0;
+    }
+    .faq_btm p {
+        max-width: 70%;
+    }
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .menu-area nav ul li a {
+        margin-left: 16px;
+    }
+    
+    .Hero_cont h1 {
+        font-size: 50px;
+    }
+    
+    .Flying_text h1 {
+        font-size: 50px;
+    }
+    
+    .Flying_blog_left p {
+        font-size: 30px;
+        max-width: 470px;
+    }
+    
+    .fl_blk {
+        max-width: 300px;
+    }
+    
+    .fl_blk_text h1 {
+        font-size: 50px;
+    }
+    
+    .fl_blk_text h4 {
+        font-size: 15px;
+    }
+    
+    .location_img {
+        margin: 50px auto 100px;
+    }
+    
+    .Carbon_title p {
+        font-size: 26px;
+    }
+    
+    .Carbon_slider {
+        max-width: 600px;
+    }
+    
+    .eco-area {
+        background-position: bottom;
+    }
+    
+    .eco_text > h1 {
+        margin-bottom: 150px;
+    }
+    
+    .sec_title h1 {
+        font-size: 40px;
+    }
+    
+    .title {
+        font-size: 85px;
+    }
+    
+    .experience-text h1 {
+        font-size: 40px;
+    }
+    
+    .experience-text {
+        margin-top: 50px;
+    }
+    .Hybrid_content_img img {
+    }
+    
+    .Hybrid_rang {
+        margin-top: 590px;
+    }
+    .Flying_man_text h1 {
+        font-size: 30px;
+    }
+    
+    .team-text h1 {
+        font-size: 36px;
+    }
+    .global_slider_blk h4 {
+        font-size: 18px;
+    }
+    
+    .faq_left {
+        max-width: 90%;
+        margin: auto;
+        margin-bottom: 40px;
+    }
+    
+    .faq_accordion {
+        max-width: 90%;
+        margin: auto;
+    }
+    
+    .accordion-body p {
+        font-size: 18px;
+    }
+    
+    .accordion-button {
+        font-size: 22px;
+    }
+    
+    .contact-Area .row {
+        max-width: 90%;
+        margin: auto;
+    }
+    
+    .contact_text {
+        margin-bottom: 50px;
+    }
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+    .Hero_cont h1 {
+        font-size: 32px;
+    }
+    
+    .Hero_cont {}
+    
+    .Flying_text h1 {
+        font-size: 40px;
+    }
+    
+    .Flying_blog_left p {
+        font-size: 24px;
+        margin-bottom: 40px;
+    }
+    
+    .fl_blk {
+        max-width: 286px;
+        margin-inline: auto;
+        flex-shrink: 0;
+        margin-right: 20px;
+    }
+    
+    .Flying_blog_right {
+        float: unset;
+        display: flex;
+        overflow: auto;
+        margin-right: -130px;
+    }
+    
+    .fl_blk_text h1 {
+        font-size: 60px;
+    }
+    
+    .fl_blk_text h4 {
+        font-size: 14px;
+    }
+    
+    .sec_padding {
+        padding: 60px 0;
+    }
+    
+    .location-Area .row {
+    }
+    
+    .location_text {
+        flex-direction: column-reverse;
+    }
+    
+    .title {
+        font-size: 80px;
+        margin-bottom: 20px;
+    }
+    
+    .sec_title h1 {
+        font-size: 24px;
+    }
+    
+    .sec_title p {
+        font-size: 18px;
+    }
+    
+    .location_img img {margin: 100px auto 50px;}
+    
+    .Carbon_title span {
+        font-size: 14px;
+    }
+    
+    .Carbon_title p {
+        font-size: 26px;
+    }
+    
+    .Carbon_blk {
+        width: 600px;
+    }
+    .Carbon_btm a {
+        font-size: 26px;
+    }
+    
+    .eco-area {background-position-x: center;}
+    
+    .eco_text > h1 {
+        margin-bottom: 190px;
+    }
+    .global_slider {
+        margin-left: -50px;
+    }
+    .experience-text h1 {
+        font-size: 30px;
+    }
+    
+    .experience-text {
+        margin-top: 50px;
+    }
+    
+    .feature_title .row {
+        flex-direction: column-reverse;
+    }
+    
+    .feature-Area .row.sec_padding {}
+    
+    .feature_title .text-right {
+        text-align: left;
+        margin-bottom: 30px;
+    }
+    
+    .feature-Area i.Cessna {
+        margin: 100px 0;
+    }
+    
+    .future_title h1 {
+        font-size: 32px;
+    }
+    
+    .Hybrid_content_img img {
+        height: 500px;
+    }
+    
+    .Hybrid_rang {
+        margin-top: 0;
+    }
+    
+    .Hybrid_content_img {
+        height: 400px;
+    }
+    
+    .Hybrid_rang_wrp {
+        flex-direction: column;
+        text-align: left;
+        justify-content: start;
+        align-items: start;
+    }
+    
+    .Hybrid_rang_wrp p {
+        text-align: left;
+    }
+    
+    .Hybrid_rang_wrp h3 {text-align: left;}
+    
+    .Flying_man_text h1 {
+        font-size: 26px;
+    }
+    
+    .Flying_man-Area .row {
+        flex-direction: column-reverse;
+    }
+    
+    section.Flying_man-Area .text-right {
+        text-align: left;
+    }
+    
+    .team-text h1 {
+        font-size: 30px;
+    }
+    
+    .global_slider_blk h4 {
+        font-size: 17px;
+    }
+    
+    .accordion-button {
+        padding: 20px 20px 10px;
+        font-size: 20px;
+    }
+    
+    .accordion-body p {
+        font-size: 16px;
+    }
+    
+    .accordion-body {
+        padding: 20px;
+        padding-top: 10px;
+    }
+    
+    .faq_accordion {
+        margin-top: 40px;
+    }
+    
+    .mail_box {
+        font-size: 20px;
+    }
+    
+    .contact_mail {
+        margin-top: 15px;
+    }
+    
+    .contact-Area {
+        padding: 100px 0;
+    }
+ 
+}
+ 
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
